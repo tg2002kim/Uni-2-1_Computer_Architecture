@@ -1,0 +1,5 @@
+﻿  pipe_4.c
+C:\Users\USER\source\repos\pipe_next\pipe_4.c(624,11): warning C4047: '함수': 'Latch *'의 간접 참조 수준이 'Latch **'과(와) 다릅니다.
+C:\Users\USER\source\repos\pipe_next\pipe_4.c(624,11): warning C4024: 'Inst_Set': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\USER\source\repos\pipe_next\pipe_4.c(773,13): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  pipe_next.vcxproj -> C:\Users\USER\source\repos\pipe_next\x64\Debug\pipe_next.exe
