@@ -16,7 +16,7 @@ Project Overview
 ---
 
 Assignment Summaries
--
+
 
 Assignment 1: Register-Based Calculator
 *  Implements 32 virtual registers (r0 ~ r31)
@@ -28,7 +28,6 @@ Build & Run:
   gcc -o calc main.c
   ./calc input.txt
 
--
 
 Assignment 2: Single-Cycle MIPS Emulator
 * Emulates MIPS ISA where each instruction completes in one clock cycle
@@ -41,7 +40,6 @@ Output includes:
 * Branch statistics
 * Register and memory access logs
 
--
 
 Assignment 3: Pipelined MIPS Emulator
 * Introduces 5-stage pipeline: IF → ID → EX → MEM → WB
@@ -54,7 +52,6 @@ Performance Metrics:
 * Instruction throughput
 * Instruction class statistics
 
--
 
 Assignment 4: Pipelined MIPS with Cache
 * Adds configurable cache model (block size, associativity, capacity)
@@ -114,3 +111,4 @@ Course Information
 * Semester: 2nd Year, 1st Semester (Spring 2024)
 * University: Dankook University
 * Department: Mobile System Engineering
+
