@@ -1,3 +1,5 @@
+Dankook University, 2nd Year 1st Semester (Spring 2024)
+
 # Computer Architecture Projects
 
 This repository contains all assignments from the **Computer Architecture** course, completed during the Spring 2024 semester at Dankook University. The projects progressively build an understanding of processor design, from a simple register-based calculator to a pipelined MIPS architecture with cache simulation.
@@ -76,3 +78,4 @@ Through these projects, students gained experience in:
 - **Semester**: Spring 2024 (2nd Year, 1st Semester)
 - **University**: Dankook University
 - **Department**: Mobile System Engineering
+
