@@ -50,25 +50,21 @@ Through these projects, students gained experience in:
 ---
 
 ## Repository Structure
-'''bash
-.
-├── Assignment1_RegisterCalculator/
-│   ├── main.c
-│   ├── input.txt
-│   └── README.md
-├── Assignment2_SingleCycleMIPS/
-│   ├── mips_single.c
-│   ├── test.bin
-│   └── README.md
-├── Assignment3_PipelinedMIPS/
-│   ├── mips_pipeline.c
-│   ├── input.bin
-│   └── README.md
-└── Assignment4_MIPSWithCache/
-    ├── mips_cache_pipeline.c
-    ├── input.bin
-    └── README.md
-'''
+
+## Repository Structure
+
+| File/Directory | Description |
+| :--- | :--- |
+| **Assignment1_RegisterCalculator/** | 레지스터 계산기 프로젝트 디렉토리 |
+| ├── `main.c` | 계산기 로직의 핵심 C 코드 |
+| ├── `input.txt` | 계산기에 사용되는 입력 데이터 |
+| └── `README.md` | 과제 1에 대한 상세 설명 파일 |
+| **Assignment2_SingleCycleMIPS/** | 단일 사이클 MIPS 시뮬레이터 디렉토리 |
+| ├── `mips_single.c` | MIPS 프로세서의 C 구현 |
+| ├── `test.bin` | 프로세서 테스트용 바이너리 파일 |
+| └── `README.md` | 과제 2에 대한 상세 설명 파일 |
+| ... | ... |
+
 
 ---
 
@@ -78,6 +74,7 @@ Through these projects, students gained experience in:
 - **Semester**: Spring 2024 (2nd Year, 1st Semester)
 - **University**: Dankook University
 - **Department**: Mobile System Engineering
+
 
 
 
