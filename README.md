@@ -50,7 +50,7 @@ Through these projects, students gained experience in:
 ---
 
 ## Repository Structure
-
+'''bash
 .
 ├── Assignment1_RegisterCalculator/
 │   ├── main.c
@@ -68,6 +68,7 @@ Through these projects, students gained experience in:
     ├── mips_cache_pipeline.c
     ├── input.bin
     └── README.md
+'''
 
 ---
 
@@ -77,6 +78,7 @@ Through these projects, students gained experience in:
 - **Semester**: Spring 2024 (2nd Year, 1st Semester)
 - **University**: Dankook University
 - **Department**: Mobile System Engineering
+
 
 
 
