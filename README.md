@@ -50,29 +50,25 @@ Through these projects, students gained experience in:
 ---
 
 ## Repository Structure
-.
-├── Assignment1_RegisterCalculator/
-│ ├── main.c
-│ ├── input.txt
-│ └── README.md
-│
-├── Assignment2_SingleCycleMIPS/
-│ ├── mips_single.c
-│ ├── test.bin
-│ └── README.md
-│
-├── Assignment3_PipelinedMIPS/
-│ ├── mips_pipeline.c
-│ ├── input.bin
-│ └── README.md
-│
-├── Assignment4_MIPSWithCache/
-│ ├── mips_cache_pipeline.c
-│ ├── input.bin
-│ └── README.md
-│
-└── README.md (this file)
-
+| .                                         |
+| :---------------------------------------- |
+| `Assignment1_RegisterCalculator/`         |
+| ├── `main.c`                              |
+| ├── `input.txt`                           |
+| └── `README.md`                           |
+| `Assignment2_SingleCycleMIPS/`            |
+| ├── `mips_single.c`                       |
+| ├── `test.bin`                            |
+| └── `README.md`                           |
+| `Assignment3_PipelinedMIPS/`              |
+| ├── `mips_pipeline.c`                     |
+| ├── `input.bin`                           |
+| └── `README.md`                           |
+| `Assignment4_MIPSWithCache/`              |
+| ├── `mips_cache_pipeline.c`               |
+| ├── `input.bin`                           |
+| └── `README.md`                           |
+| `README.md` (this file)                   |
 
 ---
 
@@ -82,6 +78,7 @@ Through these projects, students gained experience in:
 - **Semester**: Spring 2024 (2nd Year, 1st Semester)
 - **University**: Dankook University
 - **Department**: Mobile System Engineering
+
 
 
 
