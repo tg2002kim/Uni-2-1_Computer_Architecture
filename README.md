@@ -51,18 +51,24 @@ Through these projects, students gained experience in:
 
 ## Repository Structure
 
-## Repository Structure
-
 | File/Directory | Description |
 | :--- | :--- |
-| **Assignment1_RegisterCalculator/** | 레지스터 계산기 프로젝트 디렉토리 |
-| ├── `main.c` | 계산기 로직의 핵심 C 코드 |
-| ├── `input.txt` | 계산기에 사용되는 입력 데이터 |
-| └── `README.md` | 과제 1에 대한 상세 설명 파일 |
-| **Assignment2_SingleCycleMIPS/** | 단일 사이클 MIPS 시뮬레이터 디렉토리 |
-| ├── `mips_single.c` | MIPS 프로세서의 C 구현 |
-| ├── `test.bin` | 프로세서 테스트용 바이너리 파일 |
-| └── `README.md` | 과제 2에 대한 상세 설명 파일 |
+| **Assignment1_RegisterCalculator/** | Directory for the Register Calculator project. |
+| ├── `main.c` | The core C code for the calculator logic. |
+| ├── `input.txt` | The input data file used by the calculator. |
+| └── `README.md` | Provides detailed instructions and information for Assignment 1. |
+| **Assignment2_SingleCycleMIPS/** | Directory for the Single-Cycle MIPS simulator. |
+| ├── `mips_single.c` | The C implementation of the MIPS processor. |
+| ├── `test.bin` | The binary file used to test the processor. |
+| └── `README.md` | Provides detailed instructions and information for Assignment 2. |
+| **Assignment3_PipelinedMIPS/** | Directory for the Pipelined MIPS simulator. |
+| ├── `mips_pipeline.c` | The C implementation of the pipelined MIPS processor. |
+| ├── `input.bin` | The binary input file used for testing. |
+| └── `README.md` | Provides detailed instructions and information for Assignment 3. |
+| **Assignment4_MIPSWithCache/** | Directory for the MIPS simulator with cache. |
+| ├── `mips_cache_pipeline.c` | The MIPS pipeline implementation including cache functionality. |
+| ├── `input.bin` | The binary input file for testing the processor. |
+| └── `README.md` | Provides detailed instructions and information for Assignment 4. |
 | ... | ... |
 
 
@@ -74,6 +80,7 @@ Through these projects, students gained experience in:
 - **Semester**: Spring 2024 (2nd Year, 1st Semester)
 - **University**: Dankook University
 - **Department**: Mobile System Engineering
+
 
 
 
